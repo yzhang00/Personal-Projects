@@ -1,2 +1,2 @@
 # Personal-Projects
-A collection of personal projects.
+This is a collection of personal projects I created to teach myself python.
